@@ -1,7 +1,7 @@
 # Box64Droid
 [![telegram](https://img.shields.io/badge/chat-telegram-brightgreen.svg?logo=telegram&style=flat-square)](https://t.me/box64droichat)
 [![discord](https://img.shields.io/discord/308323056592486420?logo=discord)](https://discord.gg/thjpZ4P7Bm)
-
+⚠️NOTICE:THIS REPO AND THE APP ITSELF ISN'T MAINTAINED ANYMORE AND INSTALLING IT MAY CAUSE ISSUES WITH NEW ONES
 Box64Droid is a project with scripts that automate installing preconfigured rootfs with [Box64](https://github.com/ptitSeb/box64), [Box86](https://github.com/ptitSeb/box86), [Wine](https://github.com/Kron4ek/Wine-Builds), [DXVK](https://github.com/doitsujin/dxvk), [D8VK](https://github.com/AlpyneDreams/d8vk) on Android. Originally was a [fork](https://github.com/Ilya114/Box4Droid) of [Box4Droid](https://github.com/Herick75/Box4Droid) with Box64.
 
 - News about the project are published on the [Telegram](https://t.me/box64droidch) channel.
